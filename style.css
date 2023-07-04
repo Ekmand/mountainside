@@ -12,8 +12,8 @@ body {
   height: 100%;
   background: linear-gradient(
       0deg,
-      rgba(102, 102, 255, 0.7),
-      rgba(102, 102, 255, 0.7)
+      rgb(93, 163, 87, .7)
+      rgb(93, 163, 87, .7)
     ),
     url(https://mountainside.app/background.jpg) center/cover;
 }
